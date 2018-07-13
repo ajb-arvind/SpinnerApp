@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DesignApp</string>
+    <string name="List_item">Choose an item</string>
+    <string-array name="List">
+        <item>"HINDI"</item>
+        <item>"MARATHI"</item>
+        <item>"ENGLISH"</item>
+    </string-array>
+</resources>
